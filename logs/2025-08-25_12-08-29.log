@@ -1,0 +1,11 @@
+[2025-08-25 12:08:29.027] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-08-25 12:08:29.027] [Xeno] [info] Version: Xeno - v1.2.55
+[2025-08-25 12:08:29.027] [Xeno] [info] Logs stored in C:\Users\Admin\Desktop\Xeno-v1.2.55\logs\2025-08-25_12-08-29.log
+[2025-08-25 12:08:29.028] [Xeno] [debug] Client Checker thread: 0x58c6b7d720
+[2025-08-25 12:08:29.028] [Xeno] [debug] Xeno Caching thread: 0x58c6b7d710
+[2025-08-25 12:08:29.028] [Xeno] [debug] WebSockets Cleaner thread: 0x58c6b7d700
+[2025-08-25 12:08:29.028] [Xeno] [debug] Xeno Server thread: 0x58c6b7d6f0
+[2025-08-25 12:08:29.028] [Cache] [info] File: C:\Users\Admin\AppData\Local\Xeno\XENO_CACHE.bin
+[2025-08-25 12:08:29.028] [Cache] [info] Loaded cache: 0 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 0 RBXRenderViews
+[2025-08-25 12:08:29.028] [Server] [info] Listening on http://localhost:3110
+[2025-08-25 12:08:29.036] [DiscordRPC] [info] RPC is Enabled
